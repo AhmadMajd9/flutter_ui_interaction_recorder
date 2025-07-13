@@ -2,6 +2,36 @@
 
 A comprehensive Flutter package for recording and analyzing user interactions within your app. Track taps, text inputs, scrolls, navigation, and custom events with easy export to JSON format.
 
+## 🚀 Key Features
+
+- **📱 Easy Integration**: Simple widgets that wrap existing Flutter widgets
+- **🎯 Comprehensive Tracking**: Track all major user interaction types
+- **📊 JSON Export**: Export recorded events to JSON format for analysis
+- **🔒 Privacy Protection**: Built-in support for sensitive data handling
+- **⚡ Real-time Monitoring**: Live overlay for controlling recording
+- **⚙️ Flexible Configuration**: Customizable recording options
+- **🧭 Navigation Tracking**: Automatic route change detection
+- **📜 Scroll Monitoring**: Track scroll events with throttling
+- **🎨 Custom Events**: Log custom events with metadata
+- **🎨 100% Customizable UI**: Use your own designs while preserving tracking functionality
+
+## 📦 Installation
+
+Add this to your package's `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  flutter_ui_interaction_recorder: ^0.0.1
+```
+
+## 🎯 Perfect For
+
+- **UX Research**: Understand how users interact with your app
+- **Bug Reporting**: Capture user actions leading to issues
+- **Analytics**: Track user behavior patterns
+- **Testing**: Generate test scripts from real user interactions
+- **Accessibility**: Monitor user interaction patterns for accessibility improvements
+
 ## Features
 
 - **Easy Integration**: Simple widgets that wrap existing Flutter widgets
