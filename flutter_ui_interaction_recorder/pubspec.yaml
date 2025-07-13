@@ -1,7 +1,7 @@
 name: flutter_ui_interaction_recorder
 description: "A comprehensive Flutter package for recording and analyzing user interactions within your app. Track taps, text inputs, scrolls, navigation, and custom events with easy export to JSON format."
 version: 0.0.1
-homepage: https://github.com/your-username/flutter_ui_interaction_recorder
+homepage: https://github.com/AhmadMajd9/flutter_ui_interaction_recorder
 
 environment:
   sdk: ^3.7.2
